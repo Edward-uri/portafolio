@@ -1,7 +1,6 @@
 import { SectionWrapper } from '../../components/SectionWrapper';
 import { Card } from '../../components/Card';
 import { blogPosts } from '../../data/portfolio.data';
-import { FiArrowUpRight, FiClock } from 'react-icons/fi';
 
 export const Blog = () => (
   <SectionWrapper id="blog">
