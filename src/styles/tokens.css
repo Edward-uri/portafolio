@@ -1,0 +1,23 @@
+:root {
+  /* Colors */
+  --color-bg:        #0a0a0a;
+  --color-surface:   #111111;
+  --color-border:    #1f1f1f;
+  --color-accent:    #6366f1;   /* indigo */
+  --color-accent-2:  #a855f7;   /* purple */
+  --color-text-1:    #f5f5f5;
+  --color-text-2:    #a3a3a3;
+  --color-text-3:    #525252;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Spacing scale */
+  --space-section: clamp(4rem, 10vw, 8rem);
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+}
